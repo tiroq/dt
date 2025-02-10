@@ -27,7 +27,6 @@ DevTree is a command-line tool written in Go that recursively walks your project
     make install
     ```
 
-
 ## Usage
 
 Build the application:
